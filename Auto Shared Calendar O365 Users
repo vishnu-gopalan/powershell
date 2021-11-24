@@ -1,0 +1,2 @@
+Connect-ExchangeOnline -UserPrincipalName xxx@0365email.xxx ( Admin Email ID and Login while prompt a password window)
+Set-MailboxFolderPermission userid@0365email.xxx:\Calendar -User Default -AccessRights Reviewer
